@@ -1,6 +1,8 @@
 # tdd_number_trivia_app
 
-A new Flutter project.
+A basic Number Trivia App,
+using BLoC State Management package
+Based on Reso Coder Course on Clean Architecture,
 
 ## Getting Started
 
